@@ -1,4 +1,3 @@
-# 🚔 CrimePredict
 ## A Machine Learning Approach for Crime Classification and Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
